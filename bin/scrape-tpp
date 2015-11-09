@@ -1,0 +1,68 @@
+#!/usr/bin/env python
+
+import requests
+import shutil
+import os
+import sys
+
+here = lambda path: os.path.join(os.path.dirname(os.path.realpath(__file__)), path)
+
+
+URL = "https://ustr.gov/sites/default/files/%(filename)s"
+OUTPUT_DIR = here("../raw")
+
+COUNTRIES = [
+    "Australia",
+    "Brunei",
+    "Canada",
+    "Chile",
+    "Japan",
+    "Malaysia",
+    "Mexico",
+    "New Zealand",
+    "Peru",
+    "Singapore",
+    "United States",
+    "Viet Nam",
+]
+
+ANNEXES = [
+    "Annex-I-Non-Conforming-Measures",
+    "Annex-II-Non-Conforming-Measures",
+    "Annex-III-Financial-Services",
+    "Annex-IV-State-Owned-Enterprise"
+]
+
+def prepare():
+    #initialize output directory
+    if os.path.exists(OUTPUT_DIR):
+        if raw_input("Rewrite raw directory? [Y/n]") == "n":
+            return False
+        shutil.rmtree(OUTPUT_DIR)
+    os.makedirs(OUTPUT_DIR)
+    return True
+            
+
+
+def main():
+    if not prepare():
+        print "Prepare did not complete. Exiting"
+        sys.exit(0)
+        
+    for annex in ANNEXES:
+        annexdir = os.path.join(OUTPUT_DIR, annex)
+        os.makedirs(annexdir)
+        for country in COUNTRIES:
+            filename = "TPP-Final-Text-%(annex)s-%(country)s.pdf" %  {
+                "annex": annex,
+                "country": country
+            }
+            url = URL % {"filename": filename}
+            res = requests.get(url, stream=True)
+            with open(os.path.join(annexdir, filename), "wb") as f:
+                for chunk in res:
+                    f.write(chunk)
+
+if __name__ == "__main__":
+    main()
+
