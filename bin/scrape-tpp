@@ -5,33 +5,13 @@ import shutil
 import os
 import sys
 
+from tpp2json import COUNTRIES, ANNEXES
+
 here = lambda path: os.path.join(os.path.dirname(os.path.realpath(__file__)), path)
 
 
 URL = "https://ustr.gov/sites/default/files/%(filename)s"
 OUTPUT_DIR = here("../raw")
-
-COUNTRIES = [
-    "Australia",
-    "Brunei",
-    "Canada",
-    "Chile",
-    "Japan",
-    "Malaysia",
-    "Mexico",
-    "New Zealand",
-    "Peru",
-    "Singapore",
-    "United States",
-    "Viet Nam",
-]
-
-ANNEXES = [
-    "Annex-I-Non-Conforming-Measures",
-    "Annex-II-Non-Conforming-Measures",
-    "Annex-III-Financial-Services",
-    "Annex-IV-State-Owned-Enterprise"
-]
 
 def prepare():
     #initialize output directory

@@ -2,5 +2,7 @@
 build
 venv
 raw
+processed
 *~
 *#
+tpp2json.egg-info

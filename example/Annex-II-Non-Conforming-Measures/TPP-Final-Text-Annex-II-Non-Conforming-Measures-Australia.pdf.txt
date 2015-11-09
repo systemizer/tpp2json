@@ -1,0 +1,174 @@
+[
+    {
+        "Sector": "Subject to Legal Review in English, Spanish and French", 
+        "Obligations Concerned:": "for Accuracy, Clarity and Consistency", 
+        "Existing Measures:": [], 
+        " Description:": "Subject to Authentication of English, Spanish and French Versions"
+    }, 
+    {
+        "Sector": "Subject to Legal Review in English, Spanish and French", 
+        "Obligations Concerned:": "for Accuracy, Clarity and Consistency", 
+        "Existing Measures:": [], 
+        " Description:": "Subject to Authentication of English, Spanish and French Versions"
+    }, 
+    {
+        "Sector": "All", 
+        "Obligations Concerned:": "Market Access", 
+        "Existing Measures:": [
+            "Australia reserves the right to adopt or maintain any measure at theregional level of government that is not inconsistent with Australia\u2019sobligations under Article XVI of the GATS.", 
+            "For the purposes of this entry, Australia\u2019s Schedule of SpecificCommitments is modified as set out in Appendix A.", 
+            "For the purposes of this entry, the reference to Australia\u2019scommitments under Article XVI of the GATS includes commitmentsmade under that Article after the date of entry into force of thisAgreement."
+        ], 
+        " Description:": "UCross-Border Trade in Services"
+    }, 
+    {
+        "Sector": "All", 
+        "Obligations Concerned:": "National Treatment (Investment Chapter)Performance Requirements", 
+        " Description:": [
+            "UInvestment", 
+            "Australia reserves the right to adopt or maintain anymeasure with respect to proposals by \u2018foreign persons\u2019 andforeign government investors to invest in Australian urbanlandP0FP(including interests that arise via leases, financingand profit sharing arrangements, and the acquisition ofinterests in urban land corporations and trusts), other thandeveloped non-residential commercial real estate.", 
+            "1", 
+            "Foreign Acquisitions and Takeovers Act 1975 (FATA);Financial Sector (Shareholdings) Act 1998, ForeignAcquisitions and Takeovers Regulations 1989; andMinisterial Statements.", 
+            "Existing Measures:   Australia\u2019s foreign investment policy, which consists of the", 
+            "1 The term \u201cAustralian urban land\u201d has the meaning set out in the Foreign Acquisitions and Takeovers Act1975."
+        ]
+    }, 
+    {
+        "Sector": "All", 
+        "Obligations Concerned:": "National Treatment (Investment Chapter)Most Favoured Nation (Investment Chapter)Performance RequirementsSenior Management and Boards of Directors", 
+        " Description:": [
+            "UInvestment", 
+            "Australia reserves the right to adopt or maintain anymeasure to allow the screening of proposals, by foreignpersonsP1F4in Australian agricultural land and 53 millionP3Fdollars or more in Australian agribusinesses.", 
+            "3P, to invest 15 millionP2F", 
+            "P Australian dollars or moreP Australian", 
+            "2", 
+            "Foreign Acquisitions and Takeovers Act 1975 (FATA);Financial Sector (Shareholdings) Act 1998, ForeignAcquisitions and Takeovers Regulations 1989; andMinisterial Statements.", 
+            "Existing Measures:   Australia\u2019s foreign investment policy, which consists of the", 
+            "2 The term \u2018foreign person\u2019 has the meaning set out in the Foreign Acquisitions and Takeovers Act 1975.3 For greater certainty, this refers to the total, cumulative value of agricultural land in Australia in which aforeign person has invested or intends to invest.4 For greater certainty, this refers to the total, cumulative value of agribusinesses in Australia in which a foreignperson has invested or intends to invest."
+        ]
+    }, 
+    {
+        "Sector": "All", 
+        "Obligations Concerned:": "National Treatment (CBTS and Investment Chapters)Market AccessPerformance RequirementsSenior Management and Boards of Directors", 
+        "Existing Measures:": [
+            "At the central level of government, Australia reserves the right tolimit the initial transfer or disposal of government owned entitiesor assets, or a portion or percentage of the initial transfer, toAustralian persons.  For greater certainty, if Australia transfers ordisposes of a government owned entity or asset in multiplephases, this right shall apply separately to each phase.", 
+            "At the remaining levels of government, Australia reserves theright to adopt or maintain any measure with respect to:", 
+            "(a) the devolution to the private sector of services provided in theexercise of governmental authority at the time that the Agreementcomes into force; and", 
+            "(b) the privatisation of government owned entities or assets.", 
+            "For the purposes of this reservation, any measure adopted afterthe date of entry into force of this Agreement in relation tosubparagraphs (a) or (b) shall be deemed an existing non-conforming measure subject to paragraphs 1, 5, 6 and 7 of Article9.11 (Non-conforming Measures) and paragraph 1 of Article 10.7(Non-conforming Measures)."
+        ], 
+        " Description:": "UCross-Border Trade in Services and Investment"
+    }, 
+    {
+        "Sector": "National Treatment (CBTS Chapter and Investment Chapter)Most Favoured Nation Treatment (CBTS Chapter andInvestment Chapter)Local PresencePerformance RequirementsSenior Management and Boards of DirectorsMarket Access", 
+        "Obligations Concerned:": "UCross-Border Trade in Services and Investment", 
+        "Existing Measures:": [
+            "P, public transport and public housing.", 
+            "P, child care,", 
+            "5", 
+            "P", 
+            "6", 
+            "7", 
+            "5 For greater certainty, measures adopted or maintained with respect to the provision of services covered by thisreservation include measures for the protection of personal information relating to health and children.6 This includes any measure with respect to: the collection of blood and its components; the distribution ofblood and blood-related products, including plasma derived products; plasma fractionation services; and theprocurement of blood and blood-related products and services.7 For greater certainty, the subsidies programs under Australia\u2019s Pharmaceutical Benefits Scheme and MedicareBenefits Scheme, or successor programs, are not subject to Article 9.4 (National Treatment), Article 9.5 (Most-Favoured-Nation Treatment), and Article 9.10 (Senior Management and Boards of Directors), in accordancewith Article 9.11(6)(b) (Non-Conforming Measures).8 With respect to the central level of government, applies only with respect to the market access obligation(CBTS Chapter)."
+        ], 
+        " Description:": "Australia reserves the right to adopt or maintain any measureP4Fwith respect to the provision of law enforcement and correctionalservices, and the following servicesP5FP to the extent that they aresocial services established or maintained for a public purpose:income security or insurance, social security or insurance, socialwelfare, public education, public training, healthP6F8public utilitiesP7F"
+    }, 
+    {
+        "Sector": "services.P13F", 
+        "Obligations Concerned:": "14", 
+        "Existing Measures:": [
+            "(f)  Subsidies or grants for investment in Australian cultural", 
+            "This entry does not apply to foreign investment restrictions in thebroadcasting and audio-visual services sector.", 
+            "Broadcasting Services Act 1992Radiocommunications Act 1992Income Tax Assessment Act 1936Income Tax Assessment Act 1997Screen Australia Act 2008", 
+            "9 Applies only in respect of item (f).10 Applies only to the treatment as local content of New Zealand programs or productions.11 Applies only in respect of item (e) and in respect of the licensing of services covered by item (d).12 For greater certainty, this includes the right to adopt or maintain measures under subparagraphs (a) - (f) withrespect to the services supplied by the Australian Broadcasting Corporation and the Special BroadcastingService Corporation.13 Any such measure will be implemented in a manner that is consistent with Australia\u2019s commitments underArticle XVI and Article XVII of the General Agreement on Trade in Services (GATS).14 In respect of item (e), Australia\u2019s reservation applies only in respect of the Market Access and LocalPresence obligations."
+        ], 
+        " Description:": "activity."
+    }, 
+    {
+        "Sector": "Subject to Legal Review in English, Spanish and French", 
+        "Obligations Concerned:": "for Accuracy, Clarity and Consistency", 
+        "Existing Measures:": [], 
+        " Description:": "Subject to Authentication of English, Spanish and French Versions"
+    }, 
+    {
+        "Sector": "Recreational, Cultural and Sporting Services (other than audio-visual services)", 
+        "Obligations Concerned:": "National Treatment (CBTS Chapter and Investment Chapter)Most Favoured Nation Treatment (CBTS Chapter and InvestmentChapter)Market AccessPerformance RequirementsLocal PresenceSenior Management and Board of Directors", 
+        " Description:": [
+            "UCross-Border Trade in Services and Investment", 
+            "Australia reserves the right to adopt or maintain any measurewith respect to the creative arts,P14FP Indigenous traditionalcultural expressions and other cultural heritage.P16F", 
+            "15P P15F", 
+            "17", 
+            "16", 
+            "ExistingMeasures:", 
+            "15 For the purposes of this reservation, \u2018creative arts\u2019 means: the performing arts (including live theatre, danceand music); visual arts and craft; literature (other than literary works transmitted electronically); and hybrid artworks, including those which use new technologies to transcend discrete art form divisions.  For liveperformances of the \u2018creative arts\u2019, as defined, this reservation does not extend beyond subsidies and grants forinvestment in Australian cultural activity.16 Notwithstanding this, such measures shall be implemented in a manner that is consistent with Australia\u2019scommitments under Article XVI and Article XVII of the General Agreement on Trade in Services (GATS), asapplicable.17 For the purposes of this reservation, \u2018cultural heritage\u2019 means: ethnological, archaeological, historical,literary, artistic, scientific or technological moveable or built heritage, including the collections which aredocumented, preserved and exhibited by museums, galleries, libraries, archives and other heritage collectinginstitutions."
+        ]
+    }, 
+    {
+        "Sector": "Distribution services", 
+        "Obligations Concerned:": "Market Access", 
+        "Existing Measures:": [
+            "Australia reserves the right to adopt or maintain any measurewith respect to wholesale and retail trade services of tobaccoproducts, alcoholic beverages, or firearms."
+        ], 
+        " Description:": "UCross-Border Trade in Services"
+    }, 
+    {
+        "Sector": "Education services", 
+        "Obligations Concerned:": "National Treatment (CBTS Chapter and Investment Chapter)Most Favoured Nation Treatment (CBTS Chapter and InvestmentChapter)Market AccessLocal PresencePerformance RequirementsSenior Management and Board of Directors", 
+        "Existing Measures:": [
+            "Australia reserves the right to adopt or maintain any measurewith respect to primary education."
+        ], 
+        " Description:": "UCross-Border Trade in Services and Investment"
+    }, 
+    {
+        "Sector": "Gambling and Betting", 
+        "Obligations Concerned:": "National Treatment (CBTS Chapter and Investment Chapter)Market AccessPerformance RequirementsLocal PresenceSenior Management and Board of Directors", 
+        "Existing Measures:": [
+            "Australia reserves the right to adopt or maintain any measurewith respect to gambling and betting.", 
+            "Legislation and ministerial statements including the InteractiveGambling Act 2001(Cth)."
+        ], 
+        " Description:": "UCross-Border Trade in Services and Investment"
+    }, 
+    {
+        "Sector": "Maritime Transport", 
+        "Obligations Concerned:": "National Treatment (CBTS Chapter and Investment Chapter)Market AccessPerformance RequirementsLocal PresenceSenior Management and Board of Directors", 
+        "Existing Measures:": [
+            "Australia reserves the right to adopt or maintain any measurewith respect to maritime cabotage services and offshore transportservices.P17F", 
+            "Customs Act 1901 (Cth), Fair Work Act 2009 (Cth), Seafarers\u2019Compensation and Rehabilitation Act 1992 (Cth), OccupationalHealth and Safety (Maritime Industry) Act 1993 (Cth), IncomeTax Assessment Act 1936 (Cth), Coastal Trading (RevitalisingAustralian Shipping) Act 2012 (Cth), Coastal Trading(Revitalising Australian Shipping) (Consequential Amendmentsand Transitional Provisions) Act 2012 (Cth), and ShippingReform (Tax Incentives) Act 2012 (Cth)", 
+            "18", 
+            "18 For the purposes of this reservation, cabotage is defined as the transportation of passengers or goods betweena port located in Australia and another port located in Australia and traffic originating and terminating in thesame port located in Australia.  Offshore transport refers to shipping services involving the transportation ofpassengers or goods between a port located in Australia and any location associated with or incidental to theexploration or exploitation of natural resources of the continental shelf of Australia, the seabed of theAustralian coastal sea and the subsoil of that seabed."
+        ], 
+        " Description:": "UCross-Border Trade in Services and Investment"
+    }, 
+    {
+        "Sector": "Transport Services", 
+        "Obligations Concerned:": "National Treatment (Investment Chapter)Senior Management and Board of Directors", 
+        "Existing Measures:": [
+            "Australia reserves the right to adopt or maintain any measurewith respect to investment in federal leased airports.", 
+            "Airports Act 1996 (Cth)Airports (Ownership-Interests in Shares) Regulations 1996(Cth)Airports Regulations 1997 (Cth)"
+        ], 
+        " Description:": "UInvestment"
+    }, 
+    {
+        "Sector": "i.", 
+        "Obligations Concerned:": "ii.", 
+        "Existing Measures:": [
+            "ii."
+        ], 
+        " Description:": "i."
+    }, 
+    {
+        "Sector": "Subject to Legal Review in English, Spanish and French", 
+        "Obligations Concerned:": "for Accuracy, Clarity and Consistency", 
+        " Description:": [
+            "Subject to Authentication of English, Spanish and French Versions", 
+            "Most-Favoured-Nation Treatment (CBTS Chapter andInvestment Chapter)", 
+            "UCross-Border Trade in Services and Investment.Australia reserves the right to adopt or maintain any measure thataccords more favourable treatment to any service supplier orinvestor under any bilateral or multilateral internationalagreement in force or signed prior to the date of entry into forceof this Agreement.", 
+            "Australia reserves the right to adopt or maintain any measure thataccords more favourable treatment to any service supplier orinvestor taken as part of a process of economic integration ortrade liberalisation between the Parties to the Australia NewZealand Closer Economic Relations - Trade Agreement19(ANZCERTA) done at Canberra on March 28 1983.P18F", 
+            "Australia reserves the right to adopt or maintain any measure thataccords more favourable treatment to any service supplier orinvestor of a Pacific Island Forum member state under anyinternational agreement in force or signed after the date of entryinto force of this Agreement.", 
+            "Australia reserves the right to adopt or maintain any measure thataccords more favourable treatment to any service supplier orinvestor under any bilateral or multilateral internationalagreement in force or signed after the date of entry into force ofthis Agreement involving:", 
+            "(a)  aviation;(b)  fisheries; or(c)  maritime matters, including salvage.", 
+            "ExistingMeasures:", 
+            "19 For the avoidance of doubt, this includes measures adopted or maintained under any existing or futureprotocol to that Agreement."
+        ]
+    }
+]

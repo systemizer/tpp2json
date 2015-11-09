@@ -1,0 +1,111 @@
+#!/usr/bin/env python
+
+import shutil
+import os
+import sys
+import json
+from StringIO import StringIO
+
+from pdfminer.pdfpage import PDFPage
+from pdfminer.converter import  TextConverter
+from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
+from pdfminer.layout import LAParams
+
+from tpp2json import COUNTRIES, ANNEXES
+
+here = lambda path: os.path.join(os.path.dirname(os.path.realpath(__file__)), path)
+
+
+URL = "https://ustr.gov/sites/default/files/%(filename)s"
+INPUT_DIR = here("../raw")
+OUTPUT_DIR = here("../processed")
+
+def prepare():
+    #initialize output directory
+    if os.path.exists(OUTPUT_DIR):
+        if raw_input("Rewrite raw directory? [Y/n]") == "n":
+            return False
+        shutil.rmtree(OUTPUT_DIR)
+    os.makedirs(OUTPUT_DIR)
+    return True
+
+def get_text_from_pdf(pdffile):
+    retstr = StringIO()
+    rsrcmgr = PDFResourceManager()
+    laparams = LAParams()
+
+    device = TextConverter(rsrcmgr, retstr, codec = "utf-8", laparams = laparams)
+    interpreter = PDFPageInterpreter(rsrcmgr, device)
+
+    for page in PDFPage.get_pages(open(pdffile, "rb")):
+        interpreter.process_page(page)
+    return retstr.getvalue()
+
+
+def process_text(text):
+    results = []    
+    annexes = text.split("Sector:")[1:]
+
+    for annex in annexes:
+        headers = ["Sector"]
+        values = []
+        lines = annex.split("\n")
+        state = "headers"
+        curval = ""
+        for line in lines:
+            line = line.strip()
+            if state == "headers":
+                if not line and not curval:                    
+                    continue
+                elif not line and curval:
+                    state = "values"
+                    values.append(curval)
+                    curval = ""
+                elif line.endswith(":"):
+                    headers.append(" ".join([curval, line.replace(": ","")]))
+                    curval = ""
+                else:
+                    curval += line
+            elif state == "values":
+                if not line and curval:
+                    values.append(curval)
+                    curval = ""
+                elif line.startswith("ANNEX I"):
+                    if curval:
+                        values.append(curval)
+                    break                    
+                elif line:
+                    curval += line
+
+        result = {}
+        for i in range(len(headers)):
+            if i == len(headers) - 1:
+                result[headers[i]] = values[i:]
+            else:
+                result[headers[i]] = values[i]
+
+        results.append(result)
+
+    return results
+
+def main():
+    if not prepare():
+        print "Prepare did not complete. Exiting"
+        sys.exit(0)
+        
+    for annex in ANNEXES:
+        annexdir = os.path.join(OUTPUT_DIR, annex)
+        os.makedirs(annexdir)
+        for country in COUNTRIES:
+            filename = "TPP-Final-Text-%(annex)s-%(country)s.pdf" %  {
+                "annex": annex,
+                "country": country
+            }
+            text = get_text_from_pdf(os.path.join(INPUT_DIR, annex, filename))
+            result = process_text(text)
+            with open(os.path.join(OUTPUT_DIR, annex, filename + ".txt"), "wb") as f:
+                f.write(json.dumps(result, indent=4))
+
+if __name__ == "__main__":
+    main()
+

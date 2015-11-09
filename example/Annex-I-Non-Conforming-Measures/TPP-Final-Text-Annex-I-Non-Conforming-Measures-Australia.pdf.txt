@@ -1,0 +1,168 @@
+[
+    {
+        "Sector": "All Sectors", 
+        "Obligations Concerned:": "National Treatment (CBTS Chapter and Investment Chapter)Most-Favoured-Nation Treatment (CBTS Chapter andInvestment Chapter)Local PresencePerformance RequirementsSenior Management and Boards of Directors", 
+        " Measure:": "All existing non-conforming measures at the regional level ofgovernment.", 
+        "Level of Government:": "Regional", 
+        " Description:": [
+            "Cross-Border Trade in Services and Investment", 
+            "All existing non-conforming measures at the regional level ofgovernment."
+        ]
+    }, 
+    {
+        "Sector": "All Sectors", 
+        "Obligations Concerned:": "National Treatment (Investment Chapter)Senior Management and Boards of Directors", 
+        " Measure:": [
+            "Australia\u2019s Foreign Investment Policy, which consists of theForeign Acquisitions and Takeovers Act 1975 (FATA) (Cth);Foreign Acquisitions and Takeovers Regulations 1989 (Cth);Financial Sector (Shareholdings) Act 1998 (Cth); andMinisterial Statements."
+        ], 
+        "Level of Government:": "Central"
+    }, 
+    {
+        "Sector": "Professional Services", 
+        "Obligations Concerned:": "Local Presence", 
+        " Measure:": "Patents Act 1990 (Cth)Patent Regulations (Cth)", 
+        "Level of Government:": "Central", 
+        " Description:": [
+            "Cross-Border Trade in Services", 
+            "In order to register to practise in Australia, patent attorneys mustbe ordinarily resident in Australia.8", 
+            "8 For the purposes of this entry, a person is taken to be ordinarily resident in Australia if: (a) theperson has his or her home in Australia; or (b) Australia is the country of his or her permanent abodeeven though he or she is temporarily absent from Australia.  However, the person is taken not to beordinarily resident in Australia if he or she resides in Australia for a special or temporary purpose only."
+        ]
+    }, 
+    {
+        "Sector": "All Sectors", 
+        "Obligations Concerned:": "Performance Requirements9", 
+        " Measure:": "Designs Act 2003 (Cth)", 
+        "Level of Government:": "CentralRegional", 
+        " Description:": [
+            "Investment", 
+            "A design that has been registered or disclosed in a filed designapplication may be used by an Australian government (or aperson authorised by an Australian government) and, if it is used,any agreement or licence fixing the terms on which a personother than that government may use the design may beinoperative with respect to the government use unless theagreement or licence has been approved by that government.", 
+            "9 Applies only in relation to Article 9.9(1)(i)."
+        ]
+    }, 
+    {
+        "Sector": "Professional Services", 
+        "Obligations Concerned:": "National Treatment (CBTS Chapter)Most Favoured Nation Treatment (CBTS Chapter)", 
+        " Measure:": "Migration Act 1958 (Cth)", 
+        "Level of Government:": "Central", 
+        " Description:": [
+            "Cross-Border Trade in Services", 
+            "To practise as a migration agent in Australia a person must be anAustralian citizen or permanent resident or a citizen of NewZealand with a special category visa."
+        ]
+    }, 
+    {
+        "Sector": "Professional Services", 
+        "Obligations Concerned:": "Local Presence", 
+        " Measure:": "Corporations Act 2001 (Cth)", 
+        "Level of Government:": "Central", 
+        " Description:": [
+            "Cross-Border Trade in Services and Investment", 
+            "A person who is not ordinarily resident in Australia may berefused registration as a company auditor or liquidator.  At leastone partner in a firm providing auditing services must be aregistered company auditor who is ordinarily resident inAustralia."
+        ]
+    }, 
+    {
+        "Sector": "Professional Services", 
+        "Obligations Concerned:": "Local Presence", 
+        " Measure:": "Customs Act 1901 (Cth)", 
+        "Level of Government:": "Central", 
+        " Description:": [
+            "Cross-Border Trade in Services", 
+            "To act as a customs broker in Australia, service suppliers mustprovide the service in and from Australia."
+        ]
+    }, 
+    {
+        "Sector": "Fishing and services incidental to fishing", 
+        "Obligations Concerned:": "National Treatment (CBTS Chapter and Investment Chapter)", 
+        " Measure:": "Fisheries Management Act 1991 (Cth)Foreign Fishing Licences Levy Act 1991 (Cth)", 
+        "Level of Government:": "Central", 
+        " Description:": [
+            "Cross-Border Trade in Services and Investment", 
+            "Foreign fishing vessels10 seeking to undertake fishing activity,including any activity in support of or in preparation for anyfishing activity or the processing, carrying or transhipment offish, in the Australian Fishing Zone must be authorised.", 
+            "Where foreign fishing vessels are authorised they may besubject to a levy.11", 
+            "10 For the purposes of this reservation, a \u201cforeign fishing vessel\u201d is one that does not meet the definitionof an Australian boat under the Fisheries Management Act 1991 (Cth), that is, an Australian-flaggedboat (not owned by a foreign resident) or a boat owned by an Australian resident or corporation andbuilt, and whose operations are based, in Australia.11 The levy charged will be in accordance with the Foreign Fishing Licences Levy Act 1991 or anyamendments thereto."
+        ]
+    }, 
+    {
+        "Sector": "Communication Services", 
+        "Obligations Concerned:": "National Treatment (Investment Chapter)Senior Management and Board of Directors", 
+        " Measure:": "Telstra Corporation Act 1991 (Cth)", 
+        "Level of Government:": "Central", 
+        " Description:": [
+            "Investment", 
+            "Aggregate foreign equity is restricted to no more than 35 per centof shares of Telstra.  Individual or associated group foreigninvestment is restricted to no more than 5 per cent of shares.", 
+            "The Chairperson and a majority of directors of Telstra must beAustralian citizens and Telstra is required to maintain its headoffice, main base of operations and place of incorporation inAustralia."
+        ]
+    }, 
+    {
+        "Sector": "Health Services", 
+        "Obligations Concerned:": "National Treatment (Investment Chapter)Senior Management and Boards of Directors", 
+        " Measure:": "Commonwealth Serum Laboratories Act 1961 (Cth)", 
+        "Level of Government:": "Central", 
+        " Description:": [
+            "Investment", 
+            "The votes attached to significant foreign shareholdings12 may notbe counted in respect of the appointment, replacement or removalof more than one third of the directors of Commonwealth SerumLaboratories (CSL) who hold office at a particular time.  Thehead office, principal facilities used by CSL and any CSLsubsidiaries used to produce products derived from humanplasma collected from blood or plasma donated by individuals inAustralia must remain in Australia.  Two-thirds of the directorsof the board of CSL and the chairperson of any meeting must beAustralian citizens.  CSL must not seek incorporation outside ofAustralia.", 
+            "12 For the purposes of this entry, \u2018significant foreign shareholding\u2019 means a holding of voting shares inCSL in which a foreign person has a relevant interest, if the foreign person has relevant interests in atleast 5 per cent of the voting shares in CSL."
+        ]
+    }, 
+    {
+        "Sector": "Transport Services", 
+        "Obligations Concerned:": "National Treatment (CBTS Chapter and Investment Chapter)Local Presence", 
+        " Measure:": "Competition and Consumer Act 2010 (Cth)", 
+        "Level of Government:": "Central", 
+        " Description:": [
+            "Cross-Border Trade in Services and Investment", 
+            "Every ocean carrier who provides international liner cargoshipping services to or from Australia must, at all times, berepresented by a natural person who is resident in Australia.", 
+            "Only a person13 affected by a registered conference agreement orby a registered non-conference ocean carrier with substantialmarket power may apply to the Australian Competition andConsumer Commission to examine whether conference members,and non-conference operators with substantial market power, arehindering other shipping operators from engaging efficiently inthe provision of outward liner cargo services to an extent that isreasonable.  For greater certainty, matters which are relevant tothe determination of \u2018reasonable\u2019 include Australia\u2019s nationalinterest and the interests of Australian shippers.", 
+            "13 For the purposes of this entry, section 10.48 and 10.58 of Part X of the Competition and ConsumerAct 2010  list the categories of persons to whom this reservation will apply."
+        ]
+    }, 
+    {
+        "Sector": [
+            "Maritime Transport", 
+            "ObligationsConcerned:", 
+            "Level ofGovernment:", 
+            "Measure:", 
+            "Description:", 
+            "National Treatment (CBTS Chapter and Investment Chapter)Local Presence", 
+            "Central", 
+            "Shipping Registration Act 1981 (Cth), Shipping RegistrationRegulations 1981 (Cth)", 
+            "Cross-Border Trade in Services and Investment", 
+            "For a ship to be registered on the Australian Shipping Register itmust be majority Australian-owned or on demise charter toAustralian-based operators.  In the case of small craft, a shipmust be wholly owned by or solely operated by Australianresidents and/or Australian nationals.", 
+            "For a trading ship to be registered on the International ShippingRegister it must be wholly or majority Australian-owned, ondemise charter to Australian-based operators or operated solelyby Australian residents, Australian nationals or both.  The masteror chief mate, and chief engineer or first engineer of the shipmust be an Australian national or Australian resident.", 
+            "A ship on demise charter to an Australian-based operator is a shipon demise charter to:..", 
+            "an Australian national or Australian nationals; or", 
+            "in circumstances where there are 2 or more persons whoinclude an Australian national/s, where the Australiannational/s are in a position to control the exercise of therights and powers of the charterers under the charter party.", 
+            "For the purposes of this entry, an Australian national is anAustralian citizen who is ordinarily resident in Australia; or abody corporate that has its principal place of business inAustralia."
+        ]
+    }, 
+    {
+        "Sector": "Transport Services", 
+        "Obligations Concerned:": "National Treatment (Investment Chapter)Senior Management and Boards of Directors", 
+        " Measure:": "Air Navigation Act 1920 (Cth)Ministerial Statements", 
+        "Level of Government:": "Central", 
+        " Description:": [
+            "Investment", 
+            "Total foreign ownership of individual Australian internationalairlines (other than Qantas) is restricted to a maximum of 49 percent.", 
+            "Furthermore, it is required that:\u2022  at least two-thirds of the Board members must be Australian", 
+            "citizens;the Chairperson of the Board must be an Australian citizen;the airline\u2019s head office must be in Australia; andthe airline\u2019s operational base must be in Australia.", 
+            "\u2022\u2022\u2022"
+        ]
+    }, 
+    {
+        "Sector": "Transport Services", 
+        "Obligations Concerned:": "National Treatment (Investment Chapter)Senior Management and Boards of Directors", 
+        " Measure:": "Qantas Sale Act 1992 (Cth)", 
+        "Level of Government:": "Central", 
+        " Description:": [
+            "Investment", 
+            "Total foreign ownership of Qantas Airways Ltd is restricted to amaximum of 49 per cent.  In addition:", 
+            "\u2022\u2022", 
+            "the head office of Qantas must always be located in Australia;the majority of Qantas\u2019 operational facilities must be locatedin Australia;", 
+            "\u2022  at all times, at least two thirds of the directors of Qantas must", 
+            "be Australian citizens;", 
+            "\u2022  at a meeting of the board of directors of Qantas, the director", 
+            "presiding at the meeting (however described) must be anAustralian citizen;  and", 
+            "\u2022  Qantas is prohibited from taking any action to become", 
+            "incorporated outside Australia."
+        ]
+    }
+]

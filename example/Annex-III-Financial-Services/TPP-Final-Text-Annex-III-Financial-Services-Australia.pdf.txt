@@ -1,0 +1,92 @@
+[
+    {
+        "Sector": "Financial Services", 
+        "Source of Measure:": "Banking Act 1959 (Cth)Payment Systems (Regulation) Act 1998 (Cth)", 
+        "Level of Government:": "Central", 
+        " Sub-sector:": "Banking and other financial services (excluding insurance)", 
+        "Obligations Concerned:": "National Treatment (Article 11.3)Market Access for Financial Institutions (Article 11.5)", 
+        " Description:": [
+            "A branch of a foreign bank that is authorised as a deposit takinginstitution  in  Australia  (foreign  ADI)  is  not  permitted  to  acceptinitial  deposits  (and  other  funds)  from  individuals  and  non-corporate institutions of less than $A250,000.", 
+            "A  representative  office  of  a  foreign  bank  is  not  permitted  toundertake  any  banking  business,including  advertising  fordeposits,  in  Australia.    Such  a  representative  office  is  onlypermitted to act as a liaison point.", 
+            "III-AU-2", 
+            "Subject to Legal Review in English, Spanish and French", 
+            "for Accuracy, Clarity and Consistency", 
+            "Subject to Authentication of English, Spanish and French Versions", 
+            "A-2"
+        ]
+    }, 
+    {
+        "Sector": "Financial Services", 
+        "Source of Measure:": "Corporations Act 2001 (Cth)Corporations Regulations 2001 (Cth)", 
+        "Level of Government:": "Central", 
+        " Sub-sector:": "All", 
+        "Obligations Concerned:": "Senior Management and Boards of Directors (Article 11.9)", 
+        " Description:": [
+            "At  least  one  director  of  a  private  company  must  be  ordinarilyresident in Australia.", 
+            "At  least  two  directors  of  a  public  company  must  be  ordinarilyresident in Australia.", 
+            "III-AU-3", 
+            "Subject to Legal Review in English, Spanish and French", 
+            "for Accuracy, Clarity and Consistency", 
+            "Subject to Authentication of English, Spanish and French Versions", 
+            "A-3"
+        ]
+    }, 
+    {
+        "Sector": "Financial Services", 
+        "Source of Measure:": "All existing non-conforming measures at the regional level ofgovernment.", 
+        "Level of Government:": "Regional", 
+        " Sub-sector:": "All", 
+        "Obligations Concerned:": "National Treatment (Article 11.3)Most-Favoured-Nation Treatment (Article 11.4)Market Access for Financial Institutions (Article 11.5)Cross-Border Trade (Article 11.6)Senior Management and Boards of Directors (Article 11.9)", 
+        " Description:": [
+            "All existing non-conforming measures at the regional level ofgovernment.", 
+            "III-AU-4", 
+            "Subject to Legal Review in English, Spanish and French", 
+            "for Accuracy, Clarity and Consistency", 
+            "Subject to Authentication of English, Spanish and French Versions", 
+            "A-4"
+        ]
+    }, 
+    {
+        "Sector": "Financial Services", 
+        "Source of Measure:": "Commonwealth Banks Act 1959 (Cth)", 
+        "Level of Government:": "Central", 
+        " Sub-sector:": "Banking and other financial services (excluding insurance)", 
+        "Obligations Concerned:": "National Treatment (Article 11.3)", 
+        " Description:": [
+            "Liabilities of the Commonwealth Bank, previouslyCommonwealth Government-owned, is covered by transitionalguarantee arrangements.", 
+            "III-AU-5", 
+            "Subject to Legal Review in English, Spanish and French", 
+            "for Accuracy, Clarity and Consistency", 
+            "Subject to Authentication of English, Spanish and French Versions", 
+            "A-5"
+        ]
+    }, 
+    {
+        "Sector": "Financial services", 
+        "Source of Measure:": "Life Insurance Act 1995 (Cth)", 
+        "Level of Government:": "Central", 
+        " Sub-sector:": "Life insurance services", 
+        "Obligations Concerned:": "National Treatment (Article 11.3)Market Access (Article 11.5)", 
+        " Description:": [
+            "Approval of non-resident life insurers is restricted to subsidiariesincorporated under Australian law.", 
+            "III-AU-6", 
+            "Subject to Legal Review in English, Spanish and French", 
+            "for Accuracy, Clarity and Consistency", 
+            "Subject to Authentication of English, Spanish and French Versions"
+        ]
+    }, 
+    {
+        "Sector": "Financial Services", 
+        "Obligations Concerned:": "National Treatment (Article 11.3)", 
+        "Level of Government:": "Central and regional", 
+        " Subsector:": "All", 
+        " Description:": [
+            "Australia  reserves  the  right  to  adopt  or  maintain  any  measurewith  respect  to  the  guarantee  by  government  of  government-owned  entities  whose  operations  include  the  provision  offinancialtheprivatisation of such entities.", 
+            "including  guarantees", 
+            "services,", 
+            "related", 
+            "to", 
+            "III-AU-7"
+        ]
+    }
+]

@@ -9,5 +9,6 @@ setup(
     author='systemizer',
     author_email='dj@systemizer.me',
     url='djsystemizer.com',
-    scripts=["bin/scrape-tpp"]
+    packages=["tpp2json"],
+    scripts=["bin/scrape-tpp", "bin/parse-tpp"]
 )
